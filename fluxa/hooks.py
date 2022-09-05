@@ -193,3 +193,11 @@ app_license = "MIT"
 # Recommended only for DocTypes which have limited documents with untranslated names
 # For example: Role, Gender, etc.
 # translated_search_doctypes = []
+fixtures = [
+    # EXAMPLE export all records from the Category table 
+    #"Category",
+    # export only those records that match the filters from the Role table
+    {"dt": "Role", "filters": [["role_name", "like", "Admin%"]]},
+    {"dt": "Custom Field", "filters": [["dt", "in", "Serial No"]]},
+    "Website Settings"
+] 
