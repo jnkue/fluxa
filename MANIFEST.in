@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include fluxa *.css
+recursive-include fluxa *.csv
+recursive-include fluxa *.html
+recursive-include fluxa *.ico
+recursive-include fluxa *.js
+recursive-include fluxa *.json
+recursive-include fluxa *.md
+recursive-include fluxa *.png
+recursive-include fluxa *.py
+recursive-include fluxa *.svg
+recursive-include fluxa *.txt
+recursive-exclude fluxa *.pyc
