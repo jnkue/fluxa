@@ -200,5 +200,6 @@ fixtures = [
     {"dt": "Role", "filters": [["role_name", "like", "Admin%"]]},
     {"dt": "Custom Field", "filters": [["dt", "in", "Serial No"]]},
     "Website Settings",
-    "Translation"
+    "Translation",
+    {"dt": "Dashboard Chart", "filters": [["document_type", "in", "Serial No"]]},
 ] 
