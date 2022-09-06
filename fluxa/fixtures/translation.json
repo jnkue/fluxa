@@ -50,5 +50,31 @@
   "name": "29eefbff33",
   "source_text": "To be repaired",
   "translated_text": "Para ser reparat"
+ },
+ {
+  "context": null,
+  "contributed": 0,
+  "contribution_docname": null,
+  "contribution_status": "",
+  "docstatus": 0,
+  "doctype": "Translation",
+  "language": "es",
+  "modified": "2022-09-06 16:44:53.619169",
+  "name": "8bbd7782e6",
+  "source_text": "Unknown Status",
+  "translated_text": "Estado desconocido"
+ },
+ {
+  "context": null,
+  "contributed": 0,
+  "contribution_docname": null,
+  "contribution_status": "",
+  "docstatus": 0,
+  "doctype": "Translation",
+  "language": "ca",
+  "modified": "2022-09-06 16:44:53.695930",
+  "name": "605d4ff08c",
+  "source_text": "Unknown Status",
+  "translated_text": "Estat desconegut"
  }
 ]
