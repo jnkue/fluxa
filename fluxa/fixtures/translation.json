@@ -1,0 +1,54 @@
+[
+ {
+  "context": null,
+  "contributed": 0,
+  "contribution_docname": null,
+  "contribution_status": "",
+  "docstatus": 0,
+  "doctype": "Translation",
+  "language": "ca",
+  "modified": "2022-09-06 16:25:09.512753",
+  "name": "c633d2dc6a",
+  "source_text": "Defect",
+  "translated_text": "Defectu\u00f3s"
+ },
+ {
+  "context": null,
+  "contributed": 0,
+  "contribution_docname": null,
+  "contribution_status": "",
+  "docstatus": 0,
+  "doctype": "Translation",
+  "language": "es",
+  "modified": "2022-09-06 16:25:09.680735",
+  "name": "ece017844a",
+  "source_text": "Defect",
+  "translated_text": "Defectu\u00f3s"
+ },
+ {
+  "context": null,
+  "contributed": 0,
+  "contribution_docname": null,
+  "contribution_status": "",
+  "docstatus": 0,
+  "doctype": "Translation",
+  "language": "ca",
+  "modified": "2022-09-06 16:27:02.993630",
+  "name": "500c1738fd",
+  "source_text": "To be repaired",
+  "translated_text": "Per ser reparat"
+ },
+ {
+  "context": null,
+  "contributed": 0,
+  "contribution_docname": null,
+  "contribution_status": "",
+  "docstatus": 0,
+  "doctype": "Translation",
+  "language": "es",
+  "modified": "2022-09-06 16:27:03.011494",
+  "name": "29eefbff33",
+  "source_text": "To be repaired",
+  "translated_text": "Para ser reparat"
+ }
+]
