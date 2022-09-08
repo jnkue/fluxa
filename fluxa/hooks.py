@@ -7,12 +7,14 @@ app_description = "App for Fluxa Corp."
 app_email = "jj@fluxacorp.com"
 app_license = "MIT"
 
+
+
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/fluxa/css/fluxa.css"
-# app_include_js = "/assets/fluxa/js/fluxa.js"
+app_include_css = "/assets/fluxa/css/fluxa.css"
+app_include_js = "/assets/fluxa/js/fluxa.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/fluxa/css/fluxa.css"
