@@ -201,7 +201,6 @@ fixtures = [
     # export only those records that match the filters from the Role table
     {"dt": "Role", "filters": [["role_name", "like", "Admin%"]]},
     {"dt": "Custom Field", "filters": [["dt", "in", "Serial No"]]},
-    "Website Settings",
     "Translation",
     {"dt": "Dashboard Chart", "filters": [["document_type", "in", "Serial No"]]},
 ] 
