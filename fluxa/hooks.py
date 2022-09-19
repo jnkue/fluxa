@@ -6,7 +6,7 @@ app_publisher = "Janik Uellendahl"
 app_description = "App for Fluxa Corp."
 app_email = "jj@fluxacorp.com"
 app_license = "MIT"
-
+required_apps = ["wiki"]
 
 
 # Includes in <head>
